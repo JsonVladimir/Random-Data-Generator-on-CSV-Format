@@ -11,8 +11,8 @@
 ## Dependencia:
     1 - Faker
 ## Instalación de Faker:
-    Instalación de la librería con pip:
+>Instalación de la librería con pip:
 _pip install Faker_
-    Instalación de la libería con conda:
+>Instalación de la libería con conda:
 _conda install -c main faker_
 
