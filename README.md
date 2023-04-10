@@ -11,11 +11,11 @@
 ## Dependencia:
     1 - Faker
 ## Instalación de Faker:
->Instalación de la librería con pip:
+Instalación de la librería con pip:
 <br></br>
 _pip install Faker_
 <br></br>
->Instalación de la libería con conda:
+Instalación de la libería con conda:
 <br></br>
 _conda install -c main faker_
 
