@@ -1,7 +1,6 @@
 # Generador de datos aleatorios usando Python y la libería Faker.
     Autor: JsonVladimir [VD] 
    <img src="https://img.shields.io/badge/STATUS-EN%20DESAROLLO-green">
----
 
 ## Descargo de responsabilidad:
     El autor no se responsabiliza por el mal uso de este recurso,
@@ -13,7 +12,8 @@
     1 - Faker
 ## Instalación de Faker:
     Instalación de la librería con pip:
-    ```pip install Faker```
+    _pip install Faker_
 
     Instalación de la libería con conda:
-    ```conda install -c main faker```
+    _conda install -c main faker_
+
