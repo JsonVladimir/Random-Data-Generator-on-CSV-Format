@@ -1,11 +1,19 @@
-# Generador de datos aleatorios usando la libería Faker.
-    Author: JsonVladimir [VD]
+# Generador de datos aleatorios usando Python y la libería Faker.
+    Autor: JsonVladimir [VD] 
    <img src="https://img.shields.io/badge/STATUS-EN%20DESAROLLO-green">
+---
 
-## Legal Disclamer:
-    El autor no se responsabiliza por el mal uso de esta herramienta,
-    esta herramienta está diseñada con propósitos educativos.
-## Description:
-    Random data generator with option to export in a csv file.
-## Dependencies :
+## Descargo de responsabilidad:
+    El autor no se responsabiliza por el mal uso de este recurso,
+    el siguienbte recurso está diseñado con fines educativos.
+## Descripción:
+    Generador de datos aleatorios usando Python mediante el uso de la
+    librería _Faker_ con opción de exportar los datos en archivo ***.csv***
+## Dependencia:
     1 - Faker
+## Instalación de Faker:
+    Instalación de la librería con pip:
+    ```pip install Faker```
+
+    Instalación de la libería con conda:
+    ```conda install -c main faker```
