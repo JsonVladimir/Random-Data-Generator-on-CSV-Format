@@ -2,8 +2,7 @@ import csv
 import random
 import time
 from faker import Faker
-from faker.providers.person.es_CO import Provider 
-
+from faker.providers.person.es_CO import Provider
 start_time = time.mktime(time.strptime("01/01/2023 00:00:00", "%d/%m/%Y %H:%M:%S"))
 end_time = time.mktime(time.strptime("03/04/2023 23:59:59", "%d/%m/%Y %H:%M:%S"))
 fake = Faker('es_ES') #el argumento de entrada puede ser reemplazado, leer más: https://github.com/joke2k/faker/tree/master/faker/providers/person
